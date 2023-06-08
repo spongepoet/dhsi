@@ -3,7 +3,7 @@ Dh Critical Making things
 1. sketches
 2. grids & gestures
 3. physical hypertext
-4. twine
+4. [twine](https://spongepoet.github.io/dhsi/WhatTheMagpiesSaid.html)
 5. cut-up poetry
 6. [tracery bots](https://botsin.space/@sponge)
 7. scalar

@@ -8,4 +8,5 @@ Dh Critical Making things
 6. tracery bots
 7. scalar
 8. [p5 poetics](https://spongepoet.github.io/dhsi/ElmoBot.html)
-9. [bitsy](https://spongepoet.github.io/dhsi/recording.gif)
+9. [bitsy](https://spongepoet.github.io/dhsi/magpie_news.html)
+10. [bitsy gif](https://spongepoet.github.io/dhsi/recording.gif)

@@ -8,4 +8,4 @@ Dh Critical Making things
 6. tracery bots
 7. scalar
 8. p5 poetics
-9. bitsy
+9. [bitsy](https://spongepoet.github.io/dhsi/recording.gif)

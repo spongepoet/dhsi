@@ -7,5 +7,5 @@ Dh Critical Making things
 5. cut-up poetry
 6. tracery bots
 7. scalar
-8. p5 poetics
+8. [p5 poetics](https://spongepoet.github.io/dhsi/ElmoBot.html)
 9. [bitsy](https://spongepoet.github.io/dhsi/recording.gif)

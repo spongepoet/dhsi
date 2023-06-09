@@ -1,4 +1,4 @@
-### Dh Critical Making things
+DH Critical Making things
 
 ![bitsy gif](https://spongepoet.github.io/dhsi/recording.gif)
 

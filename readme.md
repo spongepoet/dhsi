@@ -3,7 +3,7 @@ Dh Critical Making things
 1. [sketches](https://spongepoet.github.io/dhsi/20230608_155651.jpg)
 2. [grids & gestures (comics as scholarship](https://spongepoet.github.io/dhsi/20230608_155744.jpg)
 3. physical hypertext
-4. [twine](https://spongepoet.github.io/dhsi/WhatTheMagpiesSaid.html)20230608_155651.jpg
+4. [twine](https://spongepoet.github.io/dhsi/WhatTheMagpiesSaid.html)
 5. [cut-up poetry](https://spongepoet.github.io/dhsi/20230608_155851.jpg)
 6. [tracery bots](https://botsin.space/@sponge)
 7. scalar
